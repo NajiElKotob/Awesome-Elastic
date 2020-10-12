@@ -16,3 +16,4 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
+* [Kibana Canvas Tutorial](https://www.youtube.com/watch?v=uV97aUjs50A)
