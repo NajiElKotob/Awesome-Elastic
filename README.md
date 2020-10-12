@@ -8,4 +8,5 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 ```
 
 
-
+## Elastic
+* [Elastic](https://www.elastic.co/) - Search solutions made simple
