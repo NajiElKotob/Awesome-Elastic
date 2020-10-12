@@ -10,3 +10,9 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 ## Elastic
 * [Elastic](https://www.elastic.co/) - Search solutions made simple
+
+
+### Kibana
+
+#### Canvas
+* [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
