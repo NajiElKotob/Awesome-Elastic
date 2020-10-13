@@ -12,6 +12,13 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Elastic](https://www.elastic.co/) - Search solutions made simple
 * [Elastic Demo](https://demo.elastic.co)
 
+### Elasticsearch
+* [An Elasticsearch Tutorial: Getting Started](https://logz.io/blog/elasticsearch-tutorial/)
+
+### Logstash
+* [Logstash Tutorial: How to Get Started](https://logz.io/blog/logstash-tutorial/)
+
+
 ### Kibana
 
 #### Discover
@@ -29,8 +36,6 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 #### ML
 
-### Logstash
-* [Logstash Tutorial: How to Get Started](https://logz.io/blog/logstash-tutorial/)
 
 ### Articles
 * [ELK Stack Architecture Elasticsearch Logstash and Kibana](https://sysadminxpert.com/elk-stack-architecture-elasticsearch-logstash-and-kibana/)
