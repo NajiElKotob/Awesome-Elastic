@@ -27,6 +27,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 #### Dashboard
 * [Kibana Dashboard Tutorial (YouTube)](https://www.youtube.com/watch?v=gQ1c1uILyKI) - edureka
+* [Kibana dashboard tutorial for beginners](https://www.ionos.com/digitalguide/online-marketing/web-analytics/kibana-tutorial/)
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
@@ -47,6 +48,5 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 ### Learn
 * [The Elastic Learning Portal](https://learn.elastic.co/)
-* [Kibana dashboard tutorial for beginners](https://www.ionos.com/digitalguide/online-marketing/web-analytics/kibana-tutorial/)
 * [Sundog Education with Frank Kane (YouTube)](https://www.youtube.com/watch?v=WhXOdGhfE6o&list=PLBtyBPTlyC7sPQDrYOEcQC3d1txIwF299)
 * [ELK Implementation Assessment](https://logz.io/elk-assessment/)
