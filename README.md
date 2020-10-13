@@ -14,6 +14,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 ### Elasticsearch
 * [An Elasticsearch Tutorial: Getting Started](https://logz.io/blog/elasticsearch-tutorial/)
+* [Elasticsearch API 101](https://logz.io/blog/elasticsearch-api/)
 
 ### Logstash
 * [Logstash Tutorial: How to Get Started](https://logz.io/blog/logstash-tutorial/)
@@ -25,6 +26,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [A Kibana Tutorial: Getting Started](https://logz.io/blog/kibana-tutorial/) - logz.io
 
 #### Dashboard
+
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
