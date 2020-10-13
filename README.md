@@ -34,3 +34,4 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 ### Learn
 * [The Elastic Learning Portal](https://learn.elastic.co/)
+* [Sundog Education with Frank Kane (YouTube)](https://www.youtube.com/watch?v=WhXOdGhfE6o&list=PLBtyBPTlyC7sPQDrYOEcQC3d1txIwF299)
