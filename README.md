@@ -38,3 +38,4 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [The Elastic Learning Portal](https://learn.elastic.co/)
 * [Kibana dashboard tutorial for beginners](https://www.ionos.com/digitalguide/online-marketing/web-analytics/kibana-tutorial/)
 * [Sundog Education with Frank Kane (YouTube)](https://www.youtube.com/watch?v=WhXOdGhfE6o&list=PLBtyBPTlyC7sPQDrYOEcQC3d1txIwF299)
+* [ELK Implementation Assessment](https://logz.io/elk-assessment/)
