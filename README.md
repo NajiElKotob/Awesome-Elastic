@@ -15,6 +15,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 ### Kibana
 
 #### Discover
+* [A Kibana Tutorial: Getting Started](https://logz.io/blog/kibana-tutorial/) - logz.io
 
 #### Dashboard
 
