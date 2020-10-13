@@ -31,6 +31,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
 * [Kibana Canvas Tutorial](https://www.youtube.com/watch?v=uV97aUjs50A)
+* [How to use Canvas on Kibana](https://blog.mimacom.com/canvas-on-kibana/) - mimacom.com
 
 #### Visualize
 * [Kibana Visualization How To's (YouTube)](https://www.youtube.com/watch?v=0E0P8kvnKqY&list=PLBrlta4ARpCjk4APmfrB6oBAsuLCy1Pkq) - Logz.io
@@ -39,7 +40,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Custom Region Maps for Kibana](https://blog.mimacom.com/custom-region-map/)
 
 #### ML
-
+* [ElasticSearch Machine Learning](https://www.bmc.com/blogs/elasticsearch-machine-learning/) - bmc.com
 
 ### Articles
 * [ELK Stack Architecture Elasticsearch Logstash and Kibana](https://sysadminxpert.com/elk-stack-architecture-elasticsearch-logstash-and-kibana/)
