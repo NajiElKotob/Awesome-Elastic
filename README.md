@@ -36,6 +36,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Kibana Visualization How To's (YouTube)](https://www.youtube.com/watch?v=0E0P8kvnKqY&list=PLBrlta4ARpCjk4APmfrB6oBAsuLCy1Pkq) - Logz.io
 
 #### Maps
+* [Custom Region Maps for Kibana](https://blog.mimacom.com/custom-region-map/)
 
 #### ML
 
