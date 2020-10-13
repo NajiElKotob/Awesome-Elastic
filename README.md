@@ -33,6 +33,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Kibana Canvas Tutorial](https://www.youtube.com/watch?v=uV97aUjs50A)
 
 #### Visualize
+* [Kibana Visualization How To's (YouTube)](https://www.youtube.com/watch?v=0E0P8kvnKqY&list=PLBrlta4ARpCjk4APmfrB6oBAsuLCy1Pkq) - Logz.io
 
 #### Maps
 
