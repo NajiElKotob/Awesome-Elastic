@@ -26,7 +26,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [A Kibana Tutorial: Getting Started](https://logz.io/blog/kibana-tutorial/) - logz.io
 
 #### Dashboard
-
+* [Kibana Dashboard Tutorial (YouTube)](https://www.youtube.com/watch?v=gQ1c1uILyKI) - edureka
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
