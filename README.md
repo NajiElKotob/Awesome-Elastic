@@ -43,6 +43,13 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 #### ML
 * [ElasticSearch Machine Learning](https://www.bmc.com/blogs/elasticsearch-machine-learning/) - bmc.com
 
+-----
+
+### APM (Application Performance Monitoring)
+* [Explore app performance and health](https://www.elastic.co/cloud-trial-onboarding/observability#explore-app-performance-and-health)
+
+-----
+
 ### Articles
 * [ELK Stack Architecture Elasticsearch Logstash and Kibana](https://sysadminxpert.com/elk-stack-architecture-elasticsearch-logstash-and-kibana/)
 
