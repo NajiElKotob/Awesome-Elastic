@@ -13,8 +13,10 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Elastic Demo](https://demo.elastic.co)
 
 ### Elasticsearch
-* [An Elasticsearch Tutorial: Getting Started](https://logz.io/blog/elasticsearch-tutorial/)
-* [Elasticsearch API 101](https://logz.io/blog/elasticsearch-api/)
+* [An Elasticsearch Tutorial: Getting Started](https://logz.io/blog/elasticsearch-tutorial/) - logz.io
+* [Elasticsearch API 101](https://logz.io/blog/elasticsearch-api/) - logz.io
+* [Elasticsearch: RESTful API](https://www.elastic.co/guide/en/cloud/current/ec-restful-api.html)
+
 
 ### Logstash
 * [Logstash Tutorial: How to Get Started](https://logz.io/blog/logstash-tutorial/)
