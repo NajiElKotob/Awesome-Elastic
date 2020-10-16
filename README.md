@@ -16,7 +16,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [An Elasticsearch Tutorial: Getting Started](https://logz.io/blog/elasticsearch-tutorial/) - logz.io
 * [Elasticsearch API 101](https://logz.io/blog/elasticsearch-api/) - logz.io
 * [Elasticsearch: RESTful API](https://www.elastic.co/guide/en/cloud/current/ec-restful-api.html)
-
+* [Getting started with Elastic App Search on Elastic Cloud](https://www.elastic.co/blog/getting-started-with-elastic-app-search-on-elasticsearch-service)
 
 ### Logstash
 * [Logstash Tutorial: How to Get Started](https://logz.io/blog/logstash-tutorial/)
