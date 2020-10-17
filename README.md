@@ -33,7 +33,6 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 #### Dashboard
 * [Kibana Dashboard Tutorial (YouTube)](https://www.youtube.com/watch?v=gQ1c1uILyKI) - edureka
 * [Kibana dashboard tutorial for beginners](https://www.ionos.com/digitalguide/online-marketing/web-analytics/kibana-tutorial/)
-* [Creating an Advanced Kibana Dashboard in 20 Mins](https://www.youtube.com/watch?v=6bM5SPVIuDs) - Logz.io Webinar
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
@@ -63,3 +62,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [The Elastic Learning Portal](https://learn.elastic.co/)
 * [Sundog Education with Frank Kane (YouTube)](https://www.youtube.com/watch?v=WhXOdGhfE6o&list=PLBtyBPTlyC7sPQDrYOEcQC3d1txIwF299)
 * [ELK Implementation Assessment](https://logz.io/elk-assessment/)
+
+### Webinar
+* [Creating an Advanced Kibana Dashboard in 20 Mins](https://www.youtube.com/watch?v=6bM5SPVIuDs) - Logz.io Webinar (2018)
+* [Threat Hunting w/ Elasticsearch, Logstash, Kibana and Beats part #1](https://www.youtube.com/watch?v=qv4boEQ8qDo) - Candan BOLUKBAS (2017)
