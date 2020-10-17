@@ -12,11 +12,14 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Elastic](https://www.elastic.co/) - Search solutions made simple
 * [Elastic Demo](https://demo.elastic.co)
 
+-----
+
 ### Elasticsearch
 * [An Elasticsearch Tutorial: Getting Started](https://logz.io/blog/elasticsearch-tutorial/) - logz.io
 * [Elasticsearch API 101](https://logz.io/blog/elasticsearch-api/) - logz.io
 * [Elasticsearch: RESTful API](https://www.elastic.co/guide/en/cloud/current/ec-restful-api.html)
 * [Getting started with Elastic App Search on Elastic Cloud](https://www.elastic.co/blog/getting-started-with-elastic-app-search-on-elasticsearch-service)
+
 
 ### Logstash
 * [Logstash Tutorial: How to Get Started](https://logz.io/blog/logstash-tutorial/)
@@ -30,6 +33,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 #### Dashboard
 * [Kibana Dashboard Tutorial (YouTube)](https://www.youtube.com/watch?v=gQ1c1uILyKI) - edureka
 * [Kibana dashboard tutorial for beginners](https://www.ionos.com/digitalguide/online-marketing/web-analytics/kibana-tutorial/)
+* [Creating an Advanced Kibana Dashboard in 20 Mins](https://www.youtube.com/watch?v=6bM5SPVIuDs) - Logz.io Webinar
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
