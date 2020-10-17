@@ -49,6 +49,9 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 #### ML
 * [ElasticSearch Machine Learning](https://www.bmc.com/blogs/elasticsearch-machine-learning/) - bmc.com
 
+#### Plugins
+* [Known Plugins](https://www.elastic.co/guide/en/kibana/master/known-plugins.html)
+
 -----
 
 ### APM (Application Performance Monitoring)
