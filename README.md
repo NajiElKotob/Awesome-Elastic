@@ -51,6 +51,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 #### Plugins
 * [Known Plugins](https://www.elastic.co/guide/en/kibana/master/known-plugins.html)
+* [Vega Example Gallery](https://vega.github.io/vega/examples/)
 
 -----
 
