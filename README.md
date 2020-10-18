@@ -14,6 +14,10 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 * [Elastic Demo](https://demo.elastic.co)
 * [Past releases](https://www.elastic.co/downloads/past-releases)
 
+### Partners and providers
+* [logz.io](https://logz.io/)
+  * [Focus your team on the core business, not your ELK Stack.](https://logz.io/diy-elk-vs-logzio/)
+  
 -----
 
 ### Elasticsearch
