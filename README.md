@@ -56,7 +56,10 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 #### Plugins
 * [Known Plugins](https://www.elastic.co/guide/en/kibana/master/known-plugins.html)
+
+##### Vega
 * [Vega Example Gallery](https://vega.github.io/vega/examples/)
+* [Kibana Scatter Plot Chart via Vega](https://www.youtube.com/watch?v=4xAO01xCBpQ) - Tim Roes
 
 -----
 
