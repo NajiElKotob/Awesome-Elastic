@@ -42,6 +42,7 @@ sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stac
 
 #### Canvas
 * [Stand out with Canvas (Video)](https://www.youtube.com/watch?v=ZqvF_5-1xjQ)
+* [Data Visualization with Kibana Canvas and SQL (Video)](https://www.youtube.com/watch?v=NhJi-9DkvdI)
 * [Kibana Canvas Tutorial](https://www.youtube.com/watch?v=uV97aUjs50A)
 * [How to use Canvas on Kibana](https://blog.mimacom.com/canvas-on-kibana/) - mimacom.com
 
