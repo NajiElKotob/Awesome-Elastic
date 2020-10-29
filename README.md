@@ -7,6 +7,11 @@ pipeline that ingests data from multiple sources simultaneously, transforms it, 
 sends it to a "stash" like Elasticsearch https://www.elastic.co/what-is/elk-stack
 ```
 
+-----
+* An Elasticsearch cluster can contain multiple Indices (databases), which in turn contain multiple Types (tables). These types hold multiple Documents (rows), and each document has Properties(columns). [What is an Elasticsearch Index?](https://www.elastic.co/blog/what-is-an-elasticsearch-index)
+
+-----
+
 
 ## Elastic
 * [Elastic](https://www.elastic.co/) - Search solutions made simple
